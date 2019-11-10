@@ -4,4 +4,3 @@ second write something
 4 444
 feature1 write
 feature2 write2
-feature/bug write
