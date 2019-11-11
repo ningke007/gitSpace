@@ -5,3 +5,4 @@ second write something
 feature1 write
 feature2 write2
 feature/bug write
+dev/bug write cherry
