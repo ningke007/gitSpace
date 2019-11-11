@@ -7,3 +7,4 @@ feature2 write2
 feature/bug write
 dev/bug write cherry
 dev/bug write cherry 2
+write in web
